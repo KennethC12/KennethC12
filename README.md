@@ -14,6 +14,6 @@ I’m passionate about coding, learning, and building projects that solve real-w
 - **Tools:** Git, Docker, Postman
 
 ## 📫 Let's Connect
-- LinkedIn: [kenneth-linkedin](www.linkedin.com/in/kenneth-chen-406860219)
+- LinkedIn: [kenneth-linkedin](https://www.linkedin.com/in/kenneth-chen-406860219/)
 - Personal Website: [kennethwebsite.com](https://kennethc12.github.io/Personal-Website-Main/#Project)
 
