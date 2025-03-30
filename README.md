@@ -10,7 +10,7 @@ I’m passionate about coding, learning, and building projects that solve real-w
 - [Personal Website](https://chenkenneth.com/): My personal portfolio website.
   
 ## 💻 Skills
-- **Languages:** Python, JavaScript, HTML, CSS, Java, C/C++
+- **Languages:** Python, JavaScript, HTML, CSS, Java, C/C++, Typescript
 - **Frameworks:** React, Django, Flask
 - **Tools:** Git, Docker, Postman
 
