@@ -8,14 +8,14 @@ I’m passionate about **coding, problem-solving, and building projects** that b
 
 ## 🚀 Featured Projects
 
-- ✋ [**Sign Language MNIST Classifier**](https://github.com/KennethC12/Sign-Language-MNIST)  
-  Deep learning CNN trained on the Sign Language MNIST dataset. Achieved **99.7% validation accuracy** with data augmentation, batch normalization, and dropout. Exported to **TensorFlow Lite** for mobile deployment.  
-
-- 🧬 [**Cancer Genomics Data Science**](https://github.com/KennethC12/Cancer-Genomics-Data-Science)  
+- [**MNIST-Neural-Network-Classifier-PyTorch-Implementation**](https://github.com/KennethC12/MNIST-Neural-Network-Classifier-PyTorch-Implementation)  
+  A PyTorch-based MNIST project that walks through building, training, and evaluating a simple feedforward neural network to classify handwritten digits.
+  
+- [**Cancer Genomics Data Science**](https://github.com/KennethC12/Cancer-Genomics-Data-Science)  
   Data science project exploring **cancer genomics datasets**. Includes preprocessing, exploratory data analysis, and visualization of genomic features to uncover patterns and biological insights. Built with **Python, Pandas, NumPy, Matplotlib, and SciPy**.    
 
-- 🌐 [**AI Web Scraper**](https://github.com/KennethC12/AI-Web-Scraper)  
-  Automated web scraper that uses **LangChain + Ollama + Selenium + BeautifulSoup4** to parse websites, analyze content with LLMs, and even connect with LinkedIn profiles automatically.  
+- [**Sign-Langauge-MNIST**](https://github.com/KennethC12/Sign-Language-MNIST)  
+  Deep learning CNN trained on the Sign Language MNIST dataset. Achieved **99.7% validation accuracy** with data augmentation, batch normalization, and dropout. Exported to **TensorFlow Lite** for mobile deployment.  
 
 
 ---
