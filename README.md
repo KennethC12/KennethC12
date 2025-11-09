@@ -15,16 +15,8 @@ I’m passionate about **coding, problem-solving, and building projects** that b
   Data science project exploring **cancer genomics datasets**. Includes preprocessing, exploratory data analysis, and visualization of genomic features to uncover patterns and biological insights. Built with **Python, Pandas, NumPy, Matplotlib, and SciPy**.    
 
 - [**Sign-Langauge-MNIST**](https://github.com/KennethC12/Sign-Language-MNIST)  
-  Deep learning CNN trained on the Sign Language MNIST dataset. Achieved **99.7% validation accuracy** with data augmentation, batch normalization, and dropout. Exported to **TensorFlow Lite** for mobile deployment.  
-
-
----
-
-## 🛠️ Skills
-- **Languages:** Python, JavaScript, TypeScript, Java, C/C++, HTML, CSS  
-- **Frameworks & Libraries:** React, Django, Flask, Streamlit  
-- **Tools & Platforms:** Git, Docker, Postman, Firebase, Selenium  
-
+  Deep learning CNN trained on the Sign Language MNIST dataset. Achieved **99.7% validation accuracy** with data augmentation, batch normalization, and dropout. Exported to **TensorFlow Lite** for mobile deployment.
+  
 ---
 
 ## 📫 Connect With Me
