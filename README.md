@@ -21,8 +21,6 @@ I’m passionate about **coding, problem-solving, and building projects** that b
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/kennethchen001/)  
-- 🌐 [Portfolio Website](https://chenkenneth.com/)  
-- 📷 [Instagram](https://www.instagram.com/kemeth156/?utm_source=qr)  
 
 ---
 ⭐️ *Feel free to explore my repositories and reach out if you’d like to collaborate!*  
